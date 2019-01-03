@@ -1,3 +1,3 @@
-require.config(['jquery'], function($) {
+define(['jquery'], function($) {
     return console.log('ok');
 })
